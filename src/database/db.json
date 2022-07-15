@@ -1,0 +1,80 @@
+{
+  "employees": [
+    {
+      "address1": "AZAD NAGAR",
+      "address2": "MITHAGAR ROAD",
+      "city": "MULUND",
+      "dob": "2022-07-14",
+      "family_details": [
+        {
+          "name": "Urmila",
+          "dob": "2022-07-10",
+          "relationship": "Mother",
+          "gender": "female"
+        },
+        {
+          "name": "raju",
+          "relationship": "sjhjs"
+        }
+      ],
+      "gender": "Male",
+      "hobbies": [
+        {
+          "0": "Cricket"
+        }
+      ],
+      "id": 1,
+      "name": "ANKIT",
+      "pincode": "4000081",
+      "state": "MUMBAI"
+    },
+    {
+      "address1": "54",
+      "address2": "54",
+      "city": "54",
+      "dob": "",
+      "family_details": [
+        {
+          "name": "56",
+          "gender": "Male",
+          "dob": "",
+          "relationship": "56"
+        }
+      ],
+      "gender": "Male",
+      "hobbies": [
+        [
+          "Cricket",
+          "mum"
+        ]
+      ],
+      "id": 2,
+      "name": "gfgf",
+      "pincode": "5445",
+      "state": "5445"
+    },
+    {
+      "address1": "gg",
+      "address2": "gg",
+      "city": "gg",
+      "dob": "2022-07-04",
+      "family_details": [
+        {
+          "name": "ankit",
+          "dob": "2022-06-28",
+          "relationship": "vr"
+        }
+      ],
+      "gender": "Male",
+      "hobbies": [
+        [
+          "Cricket"
+        ]
+      ],
+      "id": 3,
+      "name": "suraj",
+      "pincode": "5343",
+      "state": "gg"
+    }
+  ]
+}
